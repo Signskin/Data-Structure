@@ -7,7 +7,7 @@ Do not, under any circumstance, use any part of code in this repo, in somewhere 
 Repo creator takes no responsibilitiy to any consequence caused by actions violating this warning.
 
 ## 警告
-所有在此庫之程式碼僅保證無惡意惡意程式而不保證穩定性。
+所有在此庫之程式碼僅保證無惡意程式而不保證穩定性。
 請勿在任何情況下將之（或其任何部分）用於重要地方。
 庫創建者不對違反此警告之行爲所造成之任何後果負責。
 
